@@ -1,4 +1,5 @@
-<a href="https://google.com" target="_blank">Google</a>
+<img src="https://tushopcr.ml/wp-content/uploads/2021/01/cropped-Logo-1.png" width="100" height="100">
+
 ### Hi there 👋
 
 <!--
