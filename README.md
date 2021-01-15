@@ -19,6 +19,14 @@
     - [Correos](#configuracion_correos_tienda)
 - [Cuenta](#cuenta)
   - [Configuración de la cuenta](#configuracion_cuenta)
+- [Apariencia](#apariencia)
+  - [Temas](#temas)
+  - [Personalizar](#personalizar)
+- [Plugins](#plugins)
+- [Usuarios](#usuarios)
+  - [Agregar usuario](#agregar_usuario)
+  - [Modificar usuario](#modificar_usuario)
+- [Configuración general](#configuracion_general)
 
 # Productos <a name = "productos"></a>
 ## Crear un nuevo producto 🛒 <a name = "nuevo_producto"></a>
