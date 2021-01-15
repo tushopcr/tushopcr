@@ -2,6 +2,7 @@
 
 # Tabla de contenido
 
+- [Productos](#productos)
 - <a href=#productos>Productos</a>
   - <a href=#nuevo_producto>Crear un nuevo producto</a>
   - <a href=#modificar_producto>Modificar producto</a>
