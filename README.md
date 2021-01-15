@@ -3,24 +3,21 @@
 # Tabla de contenido
 
 - <a href=#productos>Productos</a>
+  - <a href=#nuevo_producto>Crear un nuevo producto</a>
+  - <a href=#modificar_producto>Modificar producto</a>
+  - <a href=#eliminar_producto>Eliminar producto</a>
+- <a href=#metodos_de_pago>Método de pago</a>
+- <a href=#cuenta>Cuenta</a>
+  - <a href=#configuracion_cuenta>Configuración de la cuenta</a>
 
-## Crear un nuevo producto 🛒 <a name = "productos"></a>
+# Productos <a name = "productos"></a>
+## Crear un nuevo producto 🛒 <a name = "nuevo_producto"></a>
 1. Ir a la sección de Productos.
 2. En el submenu seleccionar nuevo producto.
 3. El primer campo que se debe ingresar es el nombre del producto.
 4. De igual forma se deben llenar los campos de precio regular.
 5. Opcionalmente se puede ingresar un precio de oferta o descuento.
-<!--
-**tushopcr/tushopcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Eliminar producto 🛒 <a name = "eliminar_producto"></a>
