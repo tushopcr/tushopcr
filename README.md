@@ -1,6 +1,10 @@
 <img src="https://tushopcr.ml/wp-content/uploads/2021/01/cropped-Logo-1.png" width="100" height="100">
 
-### Crear un nuevo producto 🛒
+# Tabla de contenido
+
+- [Productos] (#productos)
+
+## Crear un nuevo producto 🛒 <a name = "productos"></a>
 1. Ir a la sección de Productos.
 2. En el submenu seleccionar nuevo producto.
 3. El primer campo que se debe ingresar es el nombre del producto.
