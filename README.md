@@ -2,7 +2,7 @@
 
 # Tabla de contenido
 
-- [Productos] (#productos)
+- <a href=#productos>Productos</a>
 
 ## Crear un nuevo producto 🛒 <a name = "productos"></a>
 1. Ir a la sección de Productos.
