@@ -1,9 +1,11 @@
 <img src="https://tushopcr.ml/wp-content/uploads/2021/01/cropped-Logo-1.png" width="100" height="100">
 
 ### Crear un nuevo producto 🛒
-1. Ir a la sección de tienda.
+1. Ir a la sección de Productos.
 2. En el submenu seleccionar nuevo producto.
 3. El primer campo que se debe ingresar es el nombre del producto.
+4. De igual forma se deben llenar los campos de precio regular.
+5. Opcionalmente se puede ingresar un precio de oferta o descuento.
 <!--
 **tushopcr/tushopcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
