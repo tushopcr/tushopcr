@@ -7,6 +7,7 @@
   - [Modificar producto](#modificar_producto)
   - [Eliminar producto](#eliminar_producto)
 - [Métodos de pago](#metodos_de_pago)
+- [Cuenta](#cuenta)
   - [Configuración de la cuenta](#configuracion_cuenta)
 
 # Productos <a name = "productos"></a>
@@ -20,3 +21,8 @@
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
 ## Eliminar producto 🛒 <a name = "eliminar_producto"></a>
+
+# Métodos de pago <a name = "metodos_de_pago"></a>
+
+# Cuenta <a name = "cuenta"></a>
+## Configuración de la cuenta 👤 <a name = "configuracion_cuenta"></a>
