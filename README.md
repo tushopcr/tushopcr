@@ -1,4 +1,4 @@
-[a link](https://google.com)
+<a href="www.google.com" target="_blank">Google</a>
 ### Hi there 👋
 
 <!--
