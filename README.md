@@ -3,13 +3,11 @@
 # Tabla de contenido
 
 - [Productos](#productos)
-- <a href=#productos>Productos</a>
-  - <a href=#nuevo_producto>Crear un nuevo producto</a>
-  - <a href=#modificar_producto>Modificar producto</a>
-  - <a href=#eliminar_producto>Eliminar producto</a>
-- <a href=#metodos_de_pago>Método de pago</a>
-- <a href=#cuenta>Cuenta</a>
-  - <a href=#configuracion_cuenta>Configuración de la cuenta</a>
+  - [Crear un nuevo producto](#nuevo_producto)
+  - [Modificar producto](#modificar_producto)
+  - [Eliminar producto](#eliminar_producto)
+- [Métodos de pago](#metodos_de_pago)
+  - [Configuración de la cuenta](#configuracion_cuenta)
 
 # Productos <a name = "productos"></a>
 ## Crear un nuevo producto 🛒 <a name = "nuevo_producto"></a>
