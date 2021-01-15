@@ -1,4 +1,4 @@
-<a href="https://google.com" target="_blank">Download Page</a>
+<a href="https://google.com" target="_blank">Google</a>
 ### Hi there 👋
 
 <!--
