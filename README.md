@@ -2,7 +2,7 @@
 
 ### Crear un nuevo producto 🛒
 1. Ir a la sección de tienda.
-2. En submenu seleccionar nuevo producto.
+2. En el submenu seleccionar nuevo producto.
 3. El primer campo que se debe ingresar es el nombre del producto.
 <!--
 **tushopcr/tushopcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
