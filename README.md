@@ -30,19 +30,23 @@
 
 # Productos <a name = "productos"></a>
 ## Crear un nuevo producto 🛒 <a name = "nuevo_producto"></a>
+### General
 1. Ir a la sección de Productos.
 
 <img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/Products.png" width="200" height="200">
 
 2. En el submenu seleccionar nuevo producto.
 
-<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="600" height="300">
 
 3. El primer campo que se debe ingresar es el nombre del producto.
 
 4. De igual forma se deben llenar los campos de precio regular.
 
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="600" height="300">
+
 5. Opcionalmente se puede ingresar un precio de oferta o descuento.
+
+### Envios
 
 
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
