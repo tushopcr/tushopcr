@@ -36,7 +36,7 @@
 
 2. En el submenu seleccionar nuevo producto.
 
-<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="600" height="300">
 
 3. El primer campo que se debe ingresar es el nombre del producto.
 
