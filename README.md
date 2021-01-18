@@ -67,6 +67,12 @@ Esta sección posee los campos de peso (en kilogramos), dimenciones (en centíme
 
 <img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Linked.png" width="680" height="300">
 
+### Atributos
+
+En este apartado puede especificar los distintos atributos que un determinado producto posee, estos pueden ser color, tamaño, estilo, o cualquier otra característica que su producto poseea.
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Attributes.png" width="680" height="300">
+
 
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
