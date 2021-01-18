@@ -55,6 +55,10 @@
 
 ### Envios
 
+Esta sección posee los campos de peso (en kilogramos), dimenciones (en centímetros) y clase de envío.
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Shipping.png" width="680" height="300">
+
 
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
