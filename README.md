@@ -73,6 +73,13 @@ En este apartado puede especificar los distintos atributos que un determinado pr
 
 <img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Attributes.png" width="680" height="300">
 
+### Avanzado
+
+La pestaña de avanzado permite configurar una nota de compra que se envia al usuario, el orden del menú así como habilitar o desabilitar las reseñas en cada producto.
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Advanced.png" width="680" height="300">
+
+
 
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
