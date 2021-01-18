@@ -47,6 +47,10 @@
 
 5. Opcionalmente se puede ingresar un precio de oferta o descuento.
 
+### Inventario
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Inventory.png" width="600" height="300">
+
 ### Envios
 
 
