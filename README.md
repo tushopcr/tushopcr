@@ -59,6 +59,14 @@ Esta sección posee los campos de peso (en kilogramos), dimenciones (en centíme
 
 <img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Shipping.png" width="680" height="300">
 
+### Productos enlazados
+
+1. Upsell son productos que recomiendas en lugar del que se esta visualizando actualmente, por ejemplo productos que tienen un mayor margen de ganacias o que poseen una mejor calidad.
+
+2. Cross-sells son productos que promueves en el carrito de compras en base a los productos agregados.
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Linked.png" width="680" height="300">
+
 
 ## Modificar producto 🛒 <a name = "modificar_producto"></a>
 
