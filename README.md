@@ -43,13 +43,15 @@
 
 4. De igual forma se deben llenar los campos de precio regular.
 
-<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_General.png" width="680" height="300">
 
 5. Opcionalmente se puede ingresar un precio de oferta o descuento.
 
 ### Inventario
 
-<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Inventory.png" width="600" height="300">
+ En este apartado puede configurar tanto el campo SKU (Stock Keeping Unit) se refiere a un identificador único para cada producto, así como el estatus del stock y la opción de vender el producto individualmente.
+
+<img src="https://raw.githubusercontent.com/tushopcr/tushopcr.github.io/main/Pictures/New_Product_Inventory.png" width="680" height="300">
 
 ### Envios
 
